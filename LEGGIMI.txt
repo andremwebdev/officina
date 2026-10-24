@@ -1,0 +1,67 @@
+OFFICINA SU IPHONE
+==================
+
+Su iPhone Officina funziona come Occhio: icona nella schermata Home,
+schermo intero, funziona offline e salva i progressi sul telefono.
+La procedura è la stessa che hai già fatto per Occhio, con un
+repository nuovo. Tutto da Safari, circa 5 minuti.
+
+
+1. PREPARA I FILE
+
+  Apri Officina-iPhone.zip nell'app File: toccalo e si crea la
+  cartella "Officina-iPhone" con 7 file (index.html,
+  manifest.webmanifest, sw.js e 4 icone .png) più questo LEGGIMI.
+
+
+2. METTILA ONLINE (da Safari, con GitHub)
+
+  a. Su github.com tocca "+" (in alto) > "New repository".
+     Nome: officina. Lascia "Public". Tocca "Create repository".
+  b. Tocca "uploading an existing file"
+     (oppure "Add file" > "Upload files").
+  c. "choose your files" > "Sfoglia" > cartella Officina-iPhone,
+     "Seleziona" e scegli i 7 file (il LEGGIMI non serve). "Apri".
+  d. In fondo alla pagina tocca "Commit changes".
+  e. "Settings" > "Pages": in "Branch" scegli "main" e "/ (root)",
+     poi "Save".
+  f. Dopo uno o due minuti ricarica: in cima compare l'indirizzo,
+     tipo https://TUONOME.github.io/officina/
+
+  Se la pagina di GitHub è scomoda: "aA" nella barra di Safari >
+  "Richiedi sito web desktop".
+
+
+3. INSTALLALA
+
+  a. Apri quell'indirizzo in Safari.
+  b. Condividi (il quadrato con la freccia) > "Aggiungi alla
+     schermata Home" > "Aggiungi".
+  c. Aprila dall'icona una prima volta con internet attivo.
+     Da lì funziona anche offline, esercizi compresi.
+
+  Usala sempre dall'icona: i suoi dati sono separati da Safari.
+
+
+4. DAL TELEFONO E DAL PC
+
+  Dal telefono rendono meglio le lezioni e gli esercizi leggeri
+  (Cosa stampa?, Riordina, Completa, Trova il bug, Scegli).
+  Palestra > "Dal telefono" te li propone già filtrati.
+  Quando scrivi codice dal telefono, sopra la tastiera compare
+  una barra con { } ( ) [ ] ; = => " ` e gli altri simboli.
+  Gli esercizi "Scrivi il codice", "Costruisci" e "Rifai
+  l'animazione" rendono meglio al PC (Officina.html).
+
+
+5. PROGRESSI TRA PC E IPHONE
+
+  Tu > Backup e sincronizzazione > "Esporta backup" sul primo
+  dispositivo, poi "Importa da file" sull'altro e scegli "Unisci".
+
+
+6. AGGIORNAMENTI
+
+  Per una versione nuova ricarica i file nello stesso repository
+  (punti 2b-2d), poi apri l'app una volta con internet: si
+  aggiorna da sola e i progressi restano.
